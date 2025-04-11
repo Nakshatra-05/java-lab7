@@ -7,9 +7,9 @@ This is a **console-based Java Calculator Application** that performs basic math
 ---
 
 ## 🧑‍💻 Author Info
-- **Name:** Saksham Sharma
-- **PRN:** 23070126113
-- **Branch:** AIML B2
+- **Name:** Nakshatra Pal
+- **PRN:** 23070126075
+- **Branch:** AIML A3
 - **Batch:** 23-27
 
 ---
